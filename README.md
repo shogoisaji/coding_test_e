@@ -32,7 +32,7 @@ chmod +x run_answers.sh
 
 ## 実行結果画像
 
-<img width="284" alt="result" src="https://github.com/user-attachments/assets/e586e4e9-c3ff-4b5a-8cdf-abe7a13cb756">
+<img width="284" alt="result" src="https://github.com/user-attachments/assets/40d7fe9e-7d3d-41ef-9d9b-9c9f70dcf8fb">
 
 ## テスト
 
@@ -54,4 +54,4 @@ composer install
 
 ### テスト結果画像
 
-<img width="449" alt="test_result" src="https://github.com/user-attachments/assets/0c2aa5ab-b951-409f-a834-8f8d5a513bb1">
+<img width="449" alt="test_result" src="https://github.com/user-attachments/assets/ef8f398a-35c2-4af0-80fe-bc8cc85d427c">
