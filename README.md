@@ -32,7 +32,7 @@ chmod +x run_answers.sh
 
 ## 実行結果画像
 
-<img width="284" alt="result" src="https://github.com/user-attachments/assets/40d7fe9e-7d3d-41ef-9d9b-9c9f70dcf8fb">
+<img width="262" alt="result" src="https://github.com/user-attachments/assets/002aff8d-6bc1-4096-9e6c-09134892b554">
 
 ## テスト
 
